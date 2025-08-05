@@ -33,7 +33,7 @@ A robust Laravel-based REST API for managing products and orders with intelligen
 1. **Clone the repository**
 
     ```bash
-    git clone [<repository-url>](https://github.com/mostafa569/products-orders.git)
+    git clone https://github.com/mostafa569/products-orders.git
     cd products
     ```
 
